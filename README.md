@@ -21,10 +21,11 @@
 ### Who is Anton
 
 <!-- ======================================= -->
-
-<h3>
-  <img style="margin: 20px 0;" src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=00A1D6&center=true&vCenter=true&width=500&height=22&lines=A+FrontEnd+web+coder+who's+a+cooking+buff.++🍳" />
-</h3>
+<br/>
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=20&pause=1000&color=00A1D6&center=true&vCenter=true&width=500&height=22&lines=A+FrontEnd+web+coder+who's+a+cooking+buff.++🍳" />
+</p>
+<br/>
 
 <!-- ======================================= -->
 
