@@ -33,7 +33,7 @@
 
 - 曾是一枚前端鼠鼠🐹
 - 咸鱼翻身后又多了一个身份，落魄博主😭
-- 虽然钱没挣到，但增长了年龄👴
+- 虽然钱没挣到，但年纪见长👴
 - 如今回炉重造，重新出发💪
 - 新的目标：社区，博客，开源，英语
 - 如果你对博主黑历史感兴趣，可以看看这个 [【安东开煮了】](https://space.bilibili.com/480116677)
@@ -44,7 +44,7 @@
 
 正在丰富中...✍
 
-* [Front-End-Immortality ](https://github.com/AntonHu/Front-End-Immortality)：🧚我的前端修仙心法（前端长生术）：前端生存指南之不断学习🎓  [![](https://img.shields.io/github/stars/AntonHu/Front-End-Immortality)](https://github.com/AntonHu/Front-End-Immortality)
+* [Front-End-Immortality ](https://github.com/AntonHu/Front-End-Immortality)：🧚我的前端修仙心法：前端长生术之学无止境🎓  [![](https://img.shields.io/github/stars/AntonHu/Front-End-Immortality)](https://github.com/AntonHu/Front-End-Immortality)
 * [Mr.Faucet](https://github.com/AntonHu/Mr.Faucet)：🍅原神二创洗菜小游戏！🥦  [![](https://img.shields.io/github/stars/AntonHu/Mr.Faucet)](https://github.com/AntonHu/Mr.Faucet)
 * [emoji](https://github.com/AntonHu/emoji)：😟写MD还在到处找表情吗？试试这个emoji快速查找神器吧！😏  [![](https://img.shields.io/github/stars/AntonHu/emoji)](https://github.com/AntonHu/emoji)
 * [AntonHu](https://github.com/AntonHu/AntonHu)：🎊想制作丰富的同款Github主页吗？去吧！我都放在这里！🎉  [![](https://img.shields.io/github/stars/AntonHu/AntonHu)](https://github.com/AntonHu/AntonHu)
