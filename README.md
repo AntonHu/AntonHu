@@ -38,7 +38,7 @@
 - 新的目标：社区，博客，开源，英语
 - 如果你对博主黑历史感兴趣，可以看看这个 [【安东开煮了】](https://space.bilibili.com/480116677)
 
-<img src="./image/bili-representative-works.png" width="50%" />
+<img src="./image/bili-representative-works.png" width="70%" />
 
 ### Some Repo
 
