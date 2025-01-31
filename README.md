@@ -45,13 +45,13 @@
 正在丰富中...✍
 
 * [Front-End-Immortality ](https://github.com/AntonHu/Front-End-Immortality)：🧚我的前端修仙心法：前端长生术之学无止境🎓  [![](https://img.shields.io/github/stars/AntonHu/Front-End-Immortality)](https://github.com/AntonHu/Front-End-Immortality)
-* [Mr.Faucet](https://github.com/AntonHu/Mr.Faucet)：🍅原神二创洗菜小游戏！🥦  [![](https://img.shields.io/github/stars/AntonHu/Mr.Faucet)](https://github.com/AntonHu/Mr.Faucet)
 * [emoji](https://github.com/AntonHu/emoji)：😟写MD还在到处找表情吗？试试这个emoji快速查找神器吧！😏  [![](https://img.shields.io/github/stars/AntonHu/emoji)](https://github.com/AntonHu/emoji)
-* [AntonHu](https://github.com/AntonHu/AntonHu)：🎊想制作丰富的同款Github主页吗？去吧！我都放在这里！🎉  [![](https://img.shields.io/github/stars/AntonHu/AntonHu)](https://github.com/AntonHu/AntonHu)
 * [picx-images-hosting](https://github.com/AntonHu/picx-images-hosting)：🤫教你使用Github白嫖一个自己的图床  [![](https://img.shields.io/github/stars/AntonHu/picx-images-hosting)](https://github.com/AntonHu/picx-images-hosting)
 * [webpack-multiPage](https://github.com/AntonHu/webpack-multiPage)：🔨从零配置的webpack多页面应用  [![](https://img.shields.io/github/stars/AntonHu/webpack-multiPage)](https://github.com/AntonHu/webpack-multiPage)
 * [umi-bizCharts](https://github.com/AntonHu/umi-bizCharts)：⚛️自搭Umi可视化管理后台模板应用  [![](https://img.shields.io/github/stars/AntonHu/umi-bizCharts)](https://github.com/AntonHu/umi-bizCharts)
 * [cordova-app](https://github.com/AntonHu/cordova-app)：将你的Web项目快速打包HybridApp上架  [![](https://img.shields.io/github/stars/AntonHu/cordova-app)](https://github.com/AntonHu/cordova-app)
+* [Mr.Faucet](https://github.com/AntonHu/Mr.Faucet)：🍅原神二创洗菜小游戏！🥦  [![](https://img.shields.io/github/stars/AntonHu/Mr.Faucet)](https://github.com/AntonHu/Mr.Faucet)
+* [AntonHu](https://github.com/AntonHu/AntonHu)：🎊想制作丰富的同款Github主页吗？去吧！我都放在这里！🎉  [![](https://img.shields.io/github/stars/AntonHu/AntonHu)](https://github.com/AntonHu/AntonHu)
 
 ### GitHub status
 
