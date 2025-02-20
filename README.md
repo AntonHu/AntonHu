@@ -45,6 +45,7 @@
 正在丰富中...✍
 
 * [Front-End-Immortality ](https://github.com/AntonHu/Front-End-Immortality)：🧚我的前端修仙心法：前端长生术之学无止境🎓  [![](https://img.shields.io/github/stars/AntonHu/Front-End-Immortality)](https://github.com/AntonHu/Front-End-Immortality)
+* [AntonHu](https://github.com/AntonHu/anton-spa)：🎊通过ejs模板实现，支持技术选型的SPA脚手架，支持React/Vue，打包方案，状态管理，样式方案！🎉  [![](https://img.shields.io/github/stars/AntonHu/anton-spa)](https://github.com/AntonHu/anton-spa)
 * [emoji](https://github.com/AntonHu/emoji)：😟写MD还在到处找表情吗？试试这个emoji快速查找神器吧！😏  [![](https://img.shields.io/github/stars/AntonHu/emoji)](https://github.com/AntonHu/emoji)
 * [picx-images-hosting](https://github.com/AntonHu/picx-images-hosting)：🤫教你使用Github白嫖一个自己的图床  [![](https://img.shields.io/github/stars/AntonHu/picx-images-hosting)](https://github.com/AntonHu/picx-images-hosting)
 * [webpack-multiPage](https://github.com/AntonHu/webpack-multiPage)：🔨从零配置的webpack多页面应用  [![](https://img.shields.io/github/stars/AntonHu/webpack-multiPage)](https://github.com/AntonHu/webpack-multiPage)
