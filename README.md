@@ -14,9 +14,9 @@
 
 <!-- ======================================= -->
 
-我的个人博客[《Anton修仙传》](https://antonhu.github.io/Front-End-Immortality/)正在更新中，如果对你有帮助，欢迎给个Star
+我的个人博客[《Anton修仙传》](https://blog.antoncook.xyz)正在更新中，如果对你有帮助，欢迎给个Star
 
-一个有点趣味的休闲小游戏：[《帮帮我！水龙头先生！》](https://antonhu.github.io/Mr.Faucet)
+一个有点趣味的休闲小游戏：[《帮帮我！水龙头先生！》](https://mrfaucet.antoncook.xyz)
 
 一个写MD的Emoji神器：[《Emoji Finder》](https://antonhu.github.io/emoji)
 
