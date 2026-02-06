@@ -31,13 +31,9 @@
 
 <!-- ======================================= -->
 
-入行前端8年，中道创业做过小程序，AI应用，内容自媒体，达人带货，还做过跨境电商，为了生计四处摸爬滚打，虽然最终没有太多理想的成果，但更明确了自身发展的目标。
+练习时长 8 年半的前端练习生。
 
 ![](https://img.shields.io/badge/-Taro-008000?style=flat-square&color=white&labelColor=rgb(0,0,194)&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjUwcHgiIGhlaWdodD0iMzRweCIgc3R5bGU9InNoYXBlLXJlbmRlcmluZzpnZW9tZXRyaWNQcmVjaXNpb247IHRleHQtcmVuZGVyaW5nOmdlb21ldHJpY1ByZWNpc2lvbjsgaW1hZ2UtcmVuZGVyaW5nOm9wdGltaXplUXVhbGl0eTsgZmlsbC1ydWxlOmV2ZW5vZGQ7IGNsaXAtcnVsZTpldmVub2RkIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayI+CjxnPjxwYXRoIHN0eWxlPSJvcGFjaXR5OjAuNzc1IiBmaWxsPSIjZmVmZWZlIiBkPSJNIDMxLjUsLTAuNSBDIDM3LjUsLTAuNSA0My41LC0wLjUgNDkuNSwtMC41QyA0OS41LDAuNSA0OS41LDEuNSA0OS41LDIuNUMgNDcuODc3Myw2LjI4OTgyIDQ2LjU0NCwxMC4yODk4IDQ1LjUsMTQuNUMgNDIuNTcxOSwxNS40ODQxIDM5LjU3MTksMTUuODE3NCAzNi41LDE1LjVDIDM1LjE2NjcsMjEuNSAzMy44MzMzLDI3LjUgMzIuNSwzMy41QyAyNi4xNjY3LDMzLjUgMTkuODMzMywzMy41IDEzLjUsMzMuNUMgMTQuODMwNiwyOC44NDYxIDE2LjE2MzksMjQuMTc5NSAxNy41LDE5LjVDIDExLjUzNjgsMTguNTA0MSA1LjUzNjc1LDE4LjE3MDcgLTAuNSwxOC41QyAtMC41LDE2LjgzMzMgLTAuNSwxNS4xNjY3IC0wLjUsMTMuNUMgMS4wNDk5NCw5LjgzMTU3IDIuMzgzMjcsNS45OTgyMyAzLjUsMkMgMTEuMTg4MywxLjE2ODU1IDE4Ljg1NSwxLjMzNTIxIDI2LjUsMi41QyAyNS43NTQyLDMuNzM2MTkgMjUuNDIwOCw1LjA2OTUzIDI1LjUsNi41QyAyNi45Nzc4LDYuNzYyMDIgMjguMzExMiw2LjQyODY5IDI5LjUsNS41QyAzMC4xNzE3LDMuNDcwNDggMzAuODM4NCwxLjQ3MDQ4IDMxLjUsLTAuNSBaIi8+PC9nPgo8L3N2Zz4K) ![](https://img.shields.io/badge/-React-rgb(88,196,220)?style=flat-square&logo=React&labelColor=white&logoColor=rgb(132,199,233)) ![](https://img.shields.io/badge/-WebPack-rgb(29,114,180)?style=flat-square&logo=WebPack&labelColor=white&logoColor=rgb(132,199,233)) ![](https://img.shields.io/badge/-MiniProgram-008000?style=flat-square&logo=WeChat&labelColor=fff&color=07C160) ![](https://img.shields.io/badge/-TypeScript-rgb(49,120,198)?style=flat-square&logo=Typescript&labelColor=rgb(49,120,198)&logoColor=white)
-
-- 练习时长7年半的前端回锅肉🥓
-- 擅长 c t r l（唱🎤 跳💃 rap🤘🏼 篮球🏀，不是）
-- 目标：社区，英语，AI，开源
 
 ### Some Repo
 
