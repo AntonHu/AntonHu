@@ -40,6 +40,7 @@
 正在丰富中...✍
 
 * [Front-End-Immortality](https://github.com/AntonHu/Front-End-Immortality)：🧚我的前端修仙心法：前端长生术之学无止境🎓  [![](https://img.shields.io/github/stars/AntonHu/Front-End-Immortality)](https://github.com/AntonHu/Front-End-Immortality)
+* [AI-Coding-Project](https://github.com/AntonHu/ai-coding-project)：AI Coding 项目架构落地参考，搭配食用[《前端 AI Coding 落地指南（一）架构篇 》](https://blog.antoncook.xyz/00.%E5%8C%85%E7%BD%97%E4%B8%87%E8%B1%A1/AI/%E5%89%8D%E7%AB%AF%20AI%20Coding%20%E8%90%BD%E5%9C%B0%E6%8C%87%E5%8D%97%EF%BC%88%E4%B8%80%EF%BC%89%E6%9E%B6%E6%9E%84%E7%AF%87)[![](https://img.shields.io/github/stars/AntonHu/ai-coding-project)](https://github.com/AntonHu/ai-coding-project)
 * [AI-Explore](https://github.com/AntonHu/AI-Explore)：🤖记录AI探索，分享AI项目实操 [![](https://img.shields.io/github/stars/AntonHu/AI-Explore)](https://github.com/AntonHu/AI-Explore)
 * [dypromotion](https://github.com/AntonHu/dypromotion)：🎬短视频带货专家 - 基于 DeepSeek-R1-Distill-Llama-8B 的微调模型👛 [![](https://img.shields.io/github/stars/AntonHu/dypromotion)](https://github.com/AntonHu/dypromotion)
 * [anton-spa](https://github.com/AntonHu/anton-spa)：🎊支持技术选型的SPA脚手架，支持React/Vue、构建方案、状态方案，样式方案等🎉  [![](https://img.shields.io/github/stars/AntonHu/anton-spa)](https://github.com/AntonHu/anton-spa)
